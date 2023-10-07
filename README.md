@@ -1,2 +1,2 @@
 # Pytorch-Project
-I created a pytorch model for the energy unit usage data from the energy meters located all around the UC Davis campus. To create the most accurate Pytorch model I also enforced hyperparameter tuning. Please view the attached file Pytorch_OAT.ipynb to view the Jupyter notebook.
+I created a pytorch model for the energy unit usage data from the energy meters located all around the UC Davis campus. To create the most accurate Pytorch model I also enforced hyperparameter tuning. Please view the attached file Pytorch_OAT.ipynb to view the Jupyter Notebook. I also created a preliminary guide to pytorch for not only myself but also to teach other users the basics of Pytorch: Pytorch_Guide.ipynb
